@@ -34,7 +34,7 @@ You can use any images for training unless they meet the following requirements:
 - 512x512 size images as the target data.
 - The same images of the reduced quality as the training data.
 
-The dataset preparation notebook works both with annotated and non-annotated images. 
+The dataset preparation notebook works both with annotated and non-annotated images.  
 
 #### Training dataset preparation
 
@@ -56,7 +56,7 @@ Other parameters:
 
 When the dataset is prepared, run `train.py` to start the training.
 
-The recommended settings to start with: Adam optimizer with lr=1e-3 and Cosine LR scheduler. The batch size of 8 or 16 is acceptable.
+The recommended settings to start with: Adam optimizer with lr=1e-3 and Cosine LR scheduler. The batch size of 8 or  16 is acceptable.
 
 
 
